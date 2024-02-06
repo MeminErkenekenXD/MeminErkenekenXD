@@ -7,7 +7,6 @@
 
 - ⚡ Fun fact **Terrible at one liners but a decent storyteller**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
