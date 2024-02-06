@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Online multiplayer for Unity**
 
-- ⚡ Fun fact **Terrible at one liners but a decent storyteller**
+- ⚡ Fun fact **I'm terrible at one liners but a decent storyteller**
 
 <p align="left">
 </p>
