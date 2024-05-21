@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Unity**
 
-- 🌱 I’m currently learning **Multiplayer and Online Support for Unity**
+- 🌱 I’m currently learning **AI Behaviour and Online Support for Unity**
 
 - ⚡ Fun fact **I'm terrible at one liners but a decent storyteller**
 
